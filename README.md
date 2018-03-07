@@ -1,4 +1,4 @@
 # BBC-micro-bit
-The project reads via Bluetooth Low Energy (BLE) in an Android phone the temperature read on BBC micro::bit.
-It can be followed at http://redacacia.me named "Remote Reading of Local Temperature with BBC micro::bit and BLE". 
+The project reads via Bluetooth Low Energy (BLE) in an Android smartphone the temperature read on BBC micro:bit board.
+It can be followed at https://redacacia.me/2018/03/07/remote-reading-of-temperature-with-bbc-microbit-and-bluetooth-low-energy-ble/. 
 Any help you may require for this project, you can contact me through tayeb.habib@gmail.com. 
